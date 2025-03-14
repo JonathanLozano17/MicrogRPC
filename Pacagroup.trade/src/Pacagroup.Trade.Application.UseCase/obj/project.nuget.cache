@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzmJ/oojafU=",
+  "dgSpecHash": "CyVFNwloiWQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan.Lozano\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Jonathan.Lozano\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

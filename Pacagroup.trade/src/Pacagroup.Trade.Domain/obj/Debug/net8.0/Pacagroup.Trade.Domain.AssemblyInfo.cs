@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Trade.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b3d8a15e3adecc884af8e711afe5a35f6fd095")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Trade.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Trade.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

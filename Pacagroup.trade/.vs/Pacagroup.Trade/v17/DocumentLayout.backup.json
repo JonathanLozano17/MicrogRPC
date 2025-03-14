@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\",
+  "WorkspaceRootPath": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\source\\repos\\microservicios\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\source\\repos\\microservicios\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\commons\\globalexception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\commons\\globalexception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.proto",
-              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
-              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
-              "ToolTip": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
-              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-03-14T19:48:57.33Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Program.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:52:28.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
-              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA9wDoAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:30:29.67Z",
+              "WhenOpened": "2025-03-14T20:50:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Commons\\GlobalException\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Commons\\GlobalException\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Commons\\GlobalException\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Commons\\GlobalException\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:29:13.592Z",
               "EditorCaption": ""
             }
           ]
