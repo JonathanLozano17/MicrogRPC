@@ -1,0 +1,15 @@
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\bin\Debug\net8.0\Pacagroup.Trade.Application.Interface.deps.json
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\bin\Debug\net8.0\Pacagroup.Trade.Application.Interface.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\bin\Debug\net8.0\Pacagroup.Trade.Application.Interface.pdb
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\bin\Debug\net8.0\Pacagroup.Trade.Domain.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\bin\Debug\net8.0\Pacagroup.Trade.Domain.pdb
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.AssemblyInfo.cs
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagrou.984B1403.Up2Date
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\refint\Pacagroup.Trade.Application.Interface.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\Pacagroup.Trade.Application.Interface.pdb
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Application.Interface\obj\Debug\net8.0\ref\Pacagroup.Trade.Application.Interface.dll

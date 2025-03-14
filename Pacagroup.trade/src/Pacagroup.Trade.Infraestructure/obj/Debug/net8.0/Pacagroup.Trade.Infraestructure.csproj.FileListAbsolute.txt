@@ -1,0 +1,11 @@
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\bin\Debug\net8.0\Pacagroup.Trade.Infraestructure.deps.json
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\bin\Debug\net8.0\Pacagroup.Trade.Infraestructure.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\bin\Debug\net8.0\Pacagroup.Trade.Infraestructure.pdb
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\Pacagroup.Trade.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\Pacagroup.Trade.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\Pacagroup.Trade.Infraestructure.AssemblyInfo.cs
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\Pacagroup.Trade.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\Pacagroup.Trade.Infraestructure.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\refint\Pacagroup.Trade.Infraestructure.dll
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\Pacagroup.Trade.Infraestructure.pdb
+C:\Users\Jonathan.Lozano\source\repos\MicroServicios\Pacagroup.trade\src\Pacagroup.Trade.Infraestructure\obj\Debug\net8.0\ref\Pacagroup.Trade.Infraestructure.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\source\\repos\\microservicios\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\source\\repos\\microservicios\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.proto",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-03-14T19:48:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\source\\repos\\MicroServicios\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA9wDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:30:29.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
