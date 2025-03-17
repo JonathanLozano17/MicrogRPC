@@ -3,16 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3271970F-03FB-438B-A61D-CF6F186BC8EB}|src\\Pacagroup.Trade.Application.Interface\\Pacagroup.Trade.Application.Interface.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.application.interface\\persistence\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3271970F-03FB-438B-A61D-CF6F186BC8EB}|src\\Pacagroup.Trade.Application.Interface\\Pacagroup.Trade.Application.Interface.csproj|solutionrelative:src\\pacagroup.trade.application.interface\\persistence\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.application.usecase\\commons\\mappings\\mappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|solutionrelative:src\\pacagroup.trade.application.usecase\\commons\\mappings\\mappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\updateorder\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|solutionrelative:src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\updateorder\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|solutionrelative:src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|solutionrelative:src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\createorder\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6347E7-739D-4213-B1A7-8918A712915E}|src\\Pacagroup.Trade.Application.UseCase\\Pacagroup.Trade.Application.UseCase.csproj|solutionrelative:src\\pacagroup.trade.application.usecase\\features\\orders\\commands\\createorder\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\events\\ordercanceledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\events\\ordercanceledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\commons\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\commons\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.domain\\commons\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4197AF40-9111-4D10-9DB1-BB02304C4605}|src\\Pacagroup.Trade.Domain\\Pacagroup.Trade.Domain.csproj|solutionrelative:src\\pacagroup.trade.domain\\commons\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\commons\\globalexception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\commons\\globalexception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\commons\\globalexception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\commons\\globalexception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|c:\\users\\jonathan.lozano\\documents\\github\\microgrpc\\pacagroup.trade\\src\\pacagroup.trade.services.grpc\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D052ECC8-5F4E-45B5-8EC4-044DF1893260}|src\\Pacagroup.Trade.Services.gRPC\\Pacagroup.Trade.Services.gRPC.csproj|solutionrelative:src\\pacagroup.trade.services.grpc\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +86,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\appsettings.json",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T19:50:40.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.Interface\\Persistence\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Application.Interface\\Persistence\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.Interface\\Persistence\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Application.Interface\\Persistence\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:28:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:28:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:27:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:27:04.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Application.UseCase\\Features\\Orders\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:26:55.615Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "MappingsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Commons\\Mappings\\MappingsProfile.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Application.UseCase\\Commons\\Mappings\\MappingsProfile.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Application.UseCase\\Commons\\Mappings\\MappingsProfile.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Application.UseCase\\Commons\\Mappings\\MappingsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:26:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs*",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Services\\OrderService.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:36:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Program.cs",
               "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Program.cs",
@@ -43,7 +211,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Events\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Events\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Events\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Events\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:25:45.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderCanceledEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Events\\OrderCanceledEvent.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Events\\OrderCanceledEvent.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Events\\OrderCanceledEvent.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Events\\OrderCanceledEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:25:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:25:36.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Events\\OrderUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Events\\OrderUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Events\\OrderUpdatedEvent.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Events\\OrderUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:26:02.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Commons\\BaseEvent.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Commons\\BaseEvent.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Commons\\BaseEvent.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Commons\\BaseEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:25:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Commons\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Commons\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Commons\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Commons\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:25:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Commons\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Domain\\Commons\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Domain\\Commons\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Domain\\Commons\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:25:31.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.proto",
+              "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "ToolTip": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\Protos\\Order.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-03-17T12:36:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
@@ -51,12 +322,11 @@
               "RelativeToolTip": "src\\Pacagroup.Trade.Services.gRPC\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:50:59.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:50:59.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan.Lozano\\Documents\\GitHub\\MicrogRPC\\Pacagroup.trade\\src\\Pacagroup.Trade.Services.gRPC\\Commons\\GlobalException\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "src\\Pacagroup.Trade.Services.gRPC\\Commons\\GlobalException\\GlobalExceptionHandler.cs",
